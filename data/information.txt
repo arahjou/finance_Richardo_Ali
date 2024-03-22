@@ -1,0 +1,26 @@
+Files
+
+Download all files in archive
+410.6 KB
+DESCRIPTION
+FILES
+Train contains the target. This is the dataset that you will use to train your model.
+
+Train.csv
+2.7 MB
+Test resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your model to.
+
+Test.csv
+1.1 MB
+Full list of variables and their explanations.
+
+VariableDefinitions.csv
+1.1 KB
+This shows the submission format for this competition, with the ‘ID’ column mirroring that of Test.csv and the ‘target’ column containing your predictions. The order of the rows does not matter, but the names of the ID must be correct. Note that the variable ID in the submission file is: uniqueid + " x " + country name.
+
+SampleSubmission.csv
+828.7 KB
+This is a starter notebook to help you make your first submission. If the file open weirdly you can ctrl-S and it will save to your download folder.
+
+StarterNotebook.ipynb
+96.2 KB
